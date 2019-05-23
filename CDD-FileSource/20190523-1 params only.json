@@ -1,0 +1,28 @@
+{
+"parameters": [{
+			"name": "musicUiAppVersion",
+			"value": "1905-40"
+		},
+		{
+			"name": "musicBackendAppVersion",
+			"value": "1905-110"
+		},
+		{
+			"name": "musicImsReleaseVersion",
+			"value": "1905-15"
+		},
+		{
+			"name": "NewReleaseVersion",
+			"value": "Sprint-25"
+		},
+		{
+			"name": "NewReleaseName",
+			"value": "Music-FY19Q4-Demo-Disovery 2"
+		}
+	],
+	"reference": {
+		"fileName": "20190523 Music-Release-Template.json",
+		"fileSource": "Discovery Releases"
+	}
+
+}	
