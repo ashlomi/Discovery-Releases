@@ -115,7 +115,7 @@
 			"name": "Open Ticket Jira",
 			"kind": "Task",
 			"endpoint": "Music - Jira",
-			"plugin": "Jira/1.2.3",
+			"plugin": "Jira/2.0",
 			"parameters": {
 				"issueType": "Story",
 				"summary": "This is a test",
@@ -213,7 +213,7 @@
 			"name": "Update Jira Ticket",
 			"kind": "Task",
 			"endpoint": "Music - Jira",
-			"plugin": "Jira/1.2.3",
+			"plugin": "Jira/2.0",
 			"parameters": {
 				"issueId": "%jiraIssueKey%",
 				"transition": "Closed"
@@ -226,7 +226,7 @@
 			"name": "Open Ticket Jira",
 			"kind": "Task",
 			"endpoint": "Music - Jira",
-			"plugin": "Jira/1.2.3",
+			"plugin": "Jira/2.0",
 			"parameters": {
 				"issueType": "Story",
 				"summary": "This is a test",
@@ -318,7 +318,7 @@
 			"name": "Jira",
 			"kind": "Task",
 			"endpoint": "Music - Jira",
-			"plugin": "Jira/1.2.3",
+			"plugin": "Jira/2.0",
 			"parameters": {
 				"issueType": "Story",
 				"summary": "This is a test story",
