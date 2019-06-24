@@ -1,23 +1,23 @@
 {
 "parameters": [{
 			"name": "musicUiAppVersion",
-			"value": "1905-60"
+			"value": "1905-70"
 		},
 		{
 			"name": "musicBackendAppVersion",
-			"value": "1905-123"
+			"value": "1905-200"
 		},
 		{
 			"name": "musicImsReleaseVersion",
-			"value": "1905-19"
+			"value": "1905-20"
 		},
 		{
 			"name": "NewReleaseVersion",
-			"value": "Sprint-33"
+			"value": "Sprint-40"
 		},
 		{
 			"name": "NewReleaseName",
-			"value": "Music-FY19Q4-Demo-Disovery 6"
+			"value": "Music-FY19Q4-Demo-Disovery 7"
 		}
 	],
 	"reference": {
